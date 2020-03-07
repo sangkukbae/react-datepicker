@@ -138,5 +138,6 @@ export default function App() {
 * [https://airbnb.io/react-dates/?path=/story/daterangepicker-drp--default](https://airbnb.io/react-dates/?path=/story/daterangepicker-drp--default)
 * [http://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration?_k=nw7bg7](http://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration?_k=nw7bg7)
 * [https://reactdatepicker.com/](https://reactdatepicker.com/)
+* [https://react-day-picker.js.org/](https://react-day-picker.js.org/) :heavy_check_mark:
 
 
