@@ -139,5 +139,6 @@ export default function App() {
 * [http://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration?_k=nw7bg7](http://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration?_k=nw7bg7)
 * [https://reactdatepicker.com/](https://reactdatepicker.com/)
 * [https://react-day-picker.js.org/](https://react-day-picker.js.org/) :heavy_check_mark:
+* [https://react.rocks/tag/DatePicker](https://react.rocks/tag/DatePicker)
 
 
